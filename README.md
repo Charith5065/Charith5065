@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Charith+Sasmitha;"
         alt="Headline" />
     <br/>
-    <div>
+<!--     <div>
         <img src="mtt2.png" width="300px">
-    </div>
+    </div> -->
     <br/>
     <div id="user-content-toc">
         <ul>
