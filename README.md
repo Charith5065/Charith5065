@@ -34,7 +34,7 @@
   <!-- Languages -->
   <h2>💻 Languages</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,php&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,lua,php&perline=6" />
   </p>
 
   <br/>
